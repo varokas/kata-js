@@ -1,0 +1,20 @@
+{
+  "name": "kata-js",
+  "version": "0.0.1",
+  "authors": [
+    "Varokas Panusuwan <varokas@panusuwan.com>"
+  ],
+  "license": "BSD",
+  "private": true,
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "devDependencies": {
+    "jasmine": "~2.0.0",
+    "q": "~2.0.0"
+  }
+}
