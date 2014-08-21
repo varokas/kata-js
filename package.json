@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/varokas/kata-js/issues"
   },
-  "homepage": "https://github.com/varokas/kata-js"
+  "homepage": "https://github.com/varokas/kata-js",
+  "devDependencies": {
+    "gulp": "^3.8.7"
+  }
 }
