@@ -13,4 +13,9 @@ Install
 
     ```npm install```
 
+Run
+---
 
+To run tests:
+
+```gulp test```
