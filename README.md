@@ -12,6 +12,10 @@ Install
 2. Run node install
 
     ```npm install```
+    
+3. (optionally) install tsd
+
+    ```npm install tsd -g```
 
 Run
 ---
@@ -19,3 +23,7 @@ Run
 To run tests:
 
 ```gulp test```
+
+Useful commands
+---------------
+    tsd query <module> -a install --save
